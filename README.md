@@ -20,12 +20,12 @@ Recently, the company has been facing a surge in customer complaints, primarily 
 To set up and run the Dash app, follow these steps:
 ### 1. Clone the Repository:
 ```
-git clone 
+git clone https://github.com/abhinavsaxena123/Customer-Complaints-Forecasting
 ```
 
 ### 2. Navigate to the Project Directory:
 ```
-cd 
+cd Customer-Complaints-Forecasting
 ```
 ### 3. Create a Virtual Environment:
 ```
