@@ -117,7 +117,10 @@ The dataset consists of weekly customer complaints and associated factors that m
 
 <img width="612" alt="image" src="https://github.com/user-attachments/assets/d7e6f816-456e-4a3f-a0d8-f04c11dbae6d">
 
+## Conclusion & Challenges Faced:
+This project aimed to forecast customer complaints for a chocolate company using time series models. The results indicate that the Holt-Winters model is the most suitable for capturing trends and seasonality in the complaint data, providing the highest accuracy with the lowest error metrics. However, the performance of the other models, particularly Auto SARIMA, highlights the potential complexity in the complaint patterns.
 
+While the forecast provides valuable insights into future trends, it is important to note that other exogenous factors (e.g., marketing campaigns, seasonal product launches, supply chain disruptions, or quality issues) could also significantly influence the number of complaints. These factors were not included in the dataset, and their absence might limit the overall accuracy and interpretability of the results.
 
 
 
