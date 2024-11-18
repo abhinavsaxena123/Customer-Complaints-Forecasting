@@ -1,6 +1,14 @@
 # Customer-Complaints-Forecasting
 ## Predicting Customer Complaints: A Time Series Approach for Resource Allocation and Service Optimization
 
+### Dash App for Visualization:
+The below forecast is after End Date for Test Set: 2022-12-26 as per the dataset.
+<img width="944" alt="dash_app-1" src="https://github.com/user-attachments/assets/e735029e-1995-4f78-a425-1f3a96bc0882">
+<img width="926" alt="dash_app-2" src="https://github.com/user-attachments/assets/5c3af2e5-fe8e-4229-8eae-37268987797b">
+
+
+
+
 ## Project Overview
 Customer complaints are critical for assessing customer satisfaction and service quality. This project utilizes time series analysis to predict future customer complaints, enabling businesses to allocate resources efficiently and optimize service delivery. The model helps in proactive management of customer issues and ensures a seamless customer experience.
 
